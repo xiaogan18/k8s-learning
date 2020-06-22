@@ -54,3 +54,4 @@ k8s系统性学习，记录学习过程笔记。
 </pre>
 
 ## notes
+[get-started with Minikube](notes/get-started%20with%20Minikube.md)
