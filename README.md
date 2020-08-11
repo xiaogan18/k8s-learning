@@ -1,6 +1,6 @@
 # k8s learning 
 
-k8s系统性学习，记录学习过程笔记。
+k8s系统性学习，记录学习过程笔记， 持续更新中...
 
 ## learning plan 
 - [ ] concept and theory 
@@ -54,4 +54,5 @@ k8s系统性学习，记录学习过程笔记。
 </pre>
 
 ## notes
-[get-started with Minikube](notes/get-started%20with%20Minikube.md)
+- [get-started with Minikube](notes/get-started%20with%20Minikube.md)
+- [basic concept and components](notes/basic%20concept%20and%20components.md)
