@@ -1,4 +1,4 @@
-# Basic concepts
+# Basic concepts and components
 
 ## What Kubernetes is?
 Kubernetes is a open source platform for manage containerized service, it provide much functional operations to manage container cluster such as control, monitoring, audit etc. Kubernetes come from Google with over 15 years of Google's experience, and now it has a large, rapidly growing ecosystem and community.
@@ -65,8 +65,3 @@ Use system resources to implement cluster features, with `kube-system` namespace
 - Dashboard: web-based UI for Kubernetes clusters, [learn more](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
 - Monitoring: monitoring time-series metrics with web UI, [learn more](https://kubernetes.io/docs/tasks/debug-application-cluster/resource-usage-monitoring/)
 - Logging: record cluster-level logs and provide search/browsing interface, [learn more](https://kubernetes.io/docs/concepts/cluster-administration/logging/)
-
-## Kubernetes objects
-
-## Reference 
-- [Working with kubernetes objects](https://kubernetes.io/docs/concepts/overview/working-with-objects/)
